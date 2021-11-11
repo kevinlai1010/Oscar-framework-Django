@@ -89,6 +89,7 @@ Core team:
 .. _`Michael van Tellingen`: https://github.com/mvantellingen
 .. _`Alexander Gaevsky`: https://github.com/sasha0
 .. _`Samir Shah`: https://github.com/solarissmoke
+.. _`Kevin Lai`: https://github.com/kevinlai219
 
 
 Supported versions
