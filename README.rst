@@ -80,6 +80,7 @@ Core team:
 - `Michael van Tellingen`_
 - `Alexander Gaevsky`_
 - `Samir Shah`_
+- `Kevin Lai`_
 
 .. _`David Winterbottom`: https://github.com/codeinthehole
 .. _`@codeinthehole`: https://twitter.com/codeinthehole
